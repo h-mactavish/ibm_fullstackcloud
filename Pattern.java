@@ -24,7 +24,6 @@ public class Pattern{
             System.out.println();
         }
 
-        for(int i)
         
     }
 }
